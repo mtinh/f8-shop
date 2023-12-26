@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.box {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    color: aqua;
+    background-color: aquamarine;
+    text-decoration: ;
+    padding: 10px;
+    border-style: border;
+
+}
